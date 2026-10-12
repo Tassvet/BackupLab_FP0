@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BackupLab_FP0/BackupLab.iml" filepath="$PROJECT_DIR$/.idea/modules/BackupLab_FP0/BackupLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BackupLab_FP0/BackupLab.BackupLab-build.iml" filepath="$PROJECT_DIR$/.idea/modules/BackupLab_FP0/BackupLab.BackupLab-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BackupLab_FP0/BackupLab.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BackupLab_FP0/BackupLab.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BackupLab_FP0/BackupLab.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BackupLab_FP0/BackupLab.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BackupLab_FP0.iml" filepath="$PROJECT_DIR$/.idea/BackupLab_FP0.iml" />
+    </modules>
+  </component>
+</project>
